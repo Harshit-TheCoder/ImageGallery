@@ -1,3 +1,5 @@
 flask
 opencv-contrib-python
 numpy
+flask-socketio
+eventlet
